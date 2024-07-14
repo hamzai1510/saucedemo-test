@@ -6,7 +6,9 @@ This project contains end-to-end (E2E) tests for the SauceDemo website using Cyp
 
 ```
 /cypress
-  /fixtures
+  /support
+    commands
+    e2e
   /integration
     saucedemo.spec.js
 cypress.json
