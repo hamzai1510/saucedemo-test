@@ -46,7 +46,7 @@ package.json
 
 2. **Run the Tests**
 
-   Click on `saucedemo.spec.js` in the Cypress Test Runner to run the tests.
+   Click on `saucedemo.cy.js` in the Cypress Test Runner to run the tests.
 
 ## Test Scenarios
 
